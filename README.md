@@ -6,7 +6,7 @@ It allows users to create, edit, search, copy, share, and delete text snippets e
 
 ---
 
-## 🚀 Features
+##  Features
 - Create and save text snippets (pastes)
 - Edit existing pastes
 - Search through saved pastes
@@ -17,7 +17,7 @@ It allows users to create, edit, search, copy, share, and delete text snippets e
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - React.js
 - Redux Toolkit
 - Tailwind CSS
@@ -26,4 +26,4 @@ It allows users to create, edit, search, copy, share, and delete text snippets e
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
